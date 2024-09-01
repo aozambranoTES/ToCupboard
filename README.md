@@ -1,4 +1,7 @@
-# ToCupboard
+# Sprint 1
+Se actualizó la lista de requerimiento.
+Se actualizó la lista priorizada.
+# ToCupboard Sprint 2
 # Describe brevemente el contenido.
 Es un documento PDF.
 Es el reto2 de mi certificación en Digital NAO.
